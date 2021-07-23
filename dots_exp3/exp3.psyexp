@@ -396,7 +396,7 @@
         <Param name="dir" updates="constant" val="0.0" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="dotLife" updates="None" val="0" valType="num"/>
-        <Param name="dotSize" updates="constant" val="20" valType="num"/>
+        <Param name="dotSize" updates="constant" val="15" valType="num"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="fieldPos" updates="set every repeat" val="$location" valType="list"/>
         <Param name="fieldShape" updates="constant" val="circle" valType="str"/>
@@ -543,7 +543,7 @@
         <Param name="dir" updates="constant" val="0.0" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="dotLife" updates="None" val="0" valType="num"/>
-        <Param name="dotSize" updates="constant" val="20" valType="num"/>
+        <Param name="dotSize" updates="constant" val="15" valType="num"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="fieldPos" updates="constant" val="(0.0, 0.0)" valType="list"/>
         <Param name="fieldShape" updates="constant" val="circle" valType="str"/>
